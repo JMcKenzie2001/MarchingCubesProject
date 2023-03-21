@@ -1,0 +1,1 @@
+This project was created as part of my Dissertation during University. It is a small Marching Cubes project which showcases the usage of perlin noise and the marching cubes algorithm to procedurally generate terrain based on predefined user parameters
